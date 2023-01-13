@@ -1,0 +1,175 @@
+.cities-info{
+    background-image: url("visa-1.jpg");
+    
+    padding: 40px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+.consultant {
+    background:white ;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 20px;
+    display: flex;justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.visa-btn a{
+    color:white !important;
+}
+.visa-btn{
+    background:blue !important;
+    padding: 10px;
+    text-align: center;
+    text-decoration: underline;
+    color:white;
+    width:50%;
+    display: flex;justify-content: center;
+}
+
+
+.cities-info2{
+    background-image: url("top-5.jpg");
+    
+    padding: 40px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.maldives{
+    background: white ;
+    padding: 20px;
+    margin-top:30px;
+}
+
+.citiy{
+    background:black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+
+.cities-info3{
+    background-image: url("top-6.jpg");
+    
+    padding: 40px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.cities-info4{
+    background-image: url("top-3.jpg");
+    
+    padding: 40px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.cities-info5{
+    background-image: url("top-4.jpg");
+    height: 800px !important;
+    padding: 40px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+
+
+.cities-info6{
+    background-image: url("visa-3.jpg");
+    height: 1000px
+    padding: 40px 40px 120px 40px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+}
+
+
+.city-info{
+    background: black;
+    color:white;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+
+
+
+.dropdown{
+    background: grey !important;
+    text-align: center;
+    font-size: 20px;
+    margin: 40px;
+}
+
+
+.dropdown-content{
+    display: none;
+}
+
+
+
+.dropdown:hover .dropdown-content{
+    display: block !important;
+      font-size: 20px;
+}
+
+
+.dropdown-content{
+    background: red;
+}
+
+.dropdown-content a{
+    color:white !important;
+}
+
+
+
+.afg-cnt{
+    text-align: center;
+    background: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+.consultantss{
+    background: grey;
+    padding: 20px;
+    display: flex;justify-content: center;align-items: center;flex-direction: column;
+
+    margin-top:30px; 
+}
+
+
+.consultantss h3 a{
+    color:white;
+}
